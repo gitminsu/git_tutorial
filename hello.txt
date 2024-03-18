@@ -1,0 +1,7 @@
+1 line
+2 line
+<<<<<<< HEAD
+4 line
+=======
+3 line
+>>>>>>> d9300b3 (Modified)
